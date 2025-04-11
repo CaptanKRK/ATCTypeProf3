@@ -8,6 +8,6 @@ The add word works by typing a word into the box and hitting add word. You may n
 
 The Interiors:
 
-Like said above, you can access the code from there or running the HTML file. There are 3 files, HTML which has most of the basic stuff. Then the JavaScript, which has all of the methods and defines what buttons do what, It also updates the words. Then the CSS which makes everything look nice. 
+Like said above, you can access the code from there or running the HTML file. We used VSCode to colabrate and to better run the cod. There are 3 files, HTML which has most of the basic stuff. Then the JavaScript, which has all of the methods and defines what buttons do what, It also updates the words. Then the CSS which makes everything look nice. 
 
 The code is complicated. Even we get lost in it sometimes. The CSS is basic, the HTML is split up into parts, the bottom section is more of the side bar whereas the top is more keyboard. The JavaScript is all over the place. I suggest you read the headers to understand what is going on there.
